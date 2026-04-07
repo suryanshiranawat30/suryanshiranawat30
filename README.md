@@ -59,7 +59,6 @@ Git, Android Studio, AWS
 ---
 
 
-## 📫 Let’s Connect!
 
 ## 📫 Let’s Connect!
 
@@ -69,9 +68,9 @@ Git, Android Studio, AWS
 
 [![GitHub](https://img.shields.io/badge/GitHub-suryanshiranawat30-pink?style=for-the-badge&logo=github)](https://github.com/suryanshiranawat30)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-suryanshiranawat-yellow?style=for-the-badge&logo=leetcode)]
+[![LeetCode](https://img.shields.io/badge/LeetCode-suryanshiranawat-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/suryanshiranawat)
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-yourhandle-green?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/yourhandle)
 ---
 
-⭐ *"Keep learning, keep building, keep growing"*
+⭐ *"Thank you for viewing my profile, Feel Free to connect"* ⭐
