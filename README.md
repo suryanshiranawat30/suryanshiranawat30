@@ -50,13 +50,13 @@
 ## 🛠️ Skills
 
 **Languages:**  
-C++, Python, Java  
+Python, Java , JavaScript , 
 
 **Technologies:**  
 TensorFlow, OpenCV, Flask  
 
 **Tools:**  
-Git, Android Studio, AWS  
+Git, Android Studio, AWS , Google Colab , Visual Studio Code , Windows
 
 ---
 
