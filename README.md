@@ -58,11 +58,13 @@ Git, Android Studio, AWS
 
 ---
 
-## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/suryanshi-ranawat-292b64357/
-- 📧 Email: suryanshiranawat@gmail.com  
-- 💻 GitHub: https://github.com/suryanshiranawat30
+## 📫 Let’s Connect!
+
+![Gmail](https://img.shields.io/badge/Gmail-suryanshi@email.com-red?style=for-the-badge&logo=gmail)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Suryanshi%20Ranawat-blue?style=for-the-badge&logo=linkedin)
+![GitHub](https://img.shields.io/badge/GitHub-suryanshiranawat30-black?style=for-the-badge&logo=github)
+![LeetCode](https://img.shields.io/badge/leetcode.com/u/suryanshiranawat/-yellow?style=for-the-badge&logo=leetcode)
 
 ---
 
