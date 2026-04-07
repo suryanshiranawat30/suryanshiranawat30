@@ -1,8 +1,5 @@
-# Hi, I'm Suryanshi Ranawat 👋
-CS UNDERGRAD @ VIT BHOPAL | Aspiring AI Engineer | Deep Learning Practitioner | Rapid Technology Adopter
-🎓 CSE Student  
-💡 Interested in AI, Machine Learning & Development  
-🚀 Building real-world projects  
+# Hi, I'm Suryanshi Ranawat 👋  
+CS Undergrad @ VIT Bhopal | Aspiring AI Engineer | Building real-world projects  | Rapid Technology Adopter 🎓  
 
 ---
 
