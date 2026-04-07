@@ -67,10 +67,9 @@ Git, Android Studio, AWS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suryanshi%20Ranawat-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suryanshi-ranawat-292b64357/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-suryanshiranawat30-black?style=for-the-badge&logo=github)](https://github.com/suryanshiranawat30)
+[![GitHub](https://img.shields.io/badge/GitHub-suryanshiranawat30-pink?style=for-the-badge&logo=github)](https://github.com/suryanshiranawat30)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-yourhandle-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/suryanshiranawat/
-suryanshiranawat)
+[![LeetCode](https://img.shields.io/badge/LeetCode-suryanshiranawat-yellow?style=for-the-badge&logo=leetcode)]
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-yourhandle-green?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/yourhandle)
 ---
