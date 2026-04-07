@@ -1,5 +1,4 @@
-# Hi, I'm Suryanshi Ranawat 👋  
-# 𝒮𝓊𝓇𝓎𝒶𝓃𝓈𝒽𝒾 𝑅𝒶𝓃𝒶𝓌𝒶𝓉 👋
+#  Hi, I'm Suryanshi Ranawat 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF69B4&lines=Aspiring+AI+Engineer;Deep+Learning+Practitioner" />
 
