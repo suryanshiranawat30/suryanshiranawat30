@@ -4,10 +4,17 @@
 
 ---
 
-## 🧠 About Me
-- 🌱 Currently learning: Deep Learning, AWS  
-- 💻 Strong in: C++, Python, Java  
-- 🎯 Goal: To become an AI Engineer  
+## 🧠 About Me 
+ 🎯 🎓 B.Tech in Computer Science from Vellore Institute of Technology, Bhopal (2023–2027)  
+💡 Passionate about emerging technologies and building solutions for real-world problems  
+🚀 Currently building: AI-based Breast Cancer Detection System  
+🛡️ Google IT Support Certified — foundational knowledge in:
+   • Technical Support Fundamentals  
+   • Computer Networking  
+   • Operating Systems  
+   • IT Infrastructure Services  
+   • IT Security (Defense against the Digital Dark Arts)  
+📈 Enthusiastic about Data Structures & Algorithms and actively solving coding problems
 
 ---
 
