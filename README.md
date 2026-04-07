@@ -69,7 +69,7 @@ Git, Android Studio, AWS
 
 [![GitHub](https://img.shields.io/badge/GitHub-suryanshiranawat30-pink?style=for-the-badge&logo=github)](https://github.com/suryanshiranawat30)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-suryanshiranawat-yellow?style=for-the-badge&logo=leetcode)]
+![LeetCode](https://img.shields.io/badge/LeetCode-suryanshiranawat-yellow?style=for-the-badge&logo=leetcode)
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-yourhandle-green?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/yourhandle)
 ---
