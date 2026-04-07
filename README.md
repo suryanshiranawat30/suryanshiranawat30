@@ -60,9 +60,9 @@ Git, Android Studio, AWS
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📧 Email: your-email@gmail.com  
-- 💻 GitHub: https://github.com/yourusername  
+- 💼 LinkedIn: https://www.linkedin.com/in/suryanshi-ranawat-292b64357/
+- 📧 Email: suryanshiranawat@gmail.com  
+- 💻 GitHub: https://github.com/suryanshiranawat30
 
 ---
 
