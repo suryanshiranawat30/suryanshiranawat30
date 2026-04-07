@@ -61,11 +61,17 @@ Git, Android Studio, AWS
 
 ## 📫 Let’s Connect!
 
-![Gmail](https://img.shields.io/badge/Gmail-suryanshi@email.com-red?style=for-the-badge&logo=gmail)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Suryanshi%20Ranawat-blue?style=for-the-badge&logo=linkedin)
-![GitHub](https://img.shields.io/badge/GitHub-suryanshiranawat30-black?style=for-the-badge&logo=github)
-![LeetCode](https://img.shields.io/badge/leetcode.com/u/suryanshiranawat/-yellow?style=for-the-badge&logo=leetcode)
+## 📫 Let’s Connect!
 
+[![Gmail](https://img.shields.io/badge/Gmail-suryanshi@email.com-red?style=for-the-badge&logo=gmail)](mailto:suryanshiranawat@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suryanshi%20Ranawat-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suryanshi-ranawat-292b64357/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-suryanshiranawat30-black?style=for-the-badge&logo=github)](https://github.com/suryanshiranawat30)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-yourhandle-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/suryanshiranawat/)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-yourhandle-green?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/yourhandle)
 ---
 
 ⭐ *"Keep learning, keep building, keep growing"*
