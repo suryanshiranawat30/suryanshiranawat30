@@ -63,7 +63,7 @@ Git, Android Studio, AWS
 
 ## 📫 Let’s Connect!
 
-[![Gmail](https://img.shields.io/badge/Gmail-suryanshi@email.com-red?style=for-the-badge&logo=gmail)](mailto:suryanshiranawat@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-suryanshiranawat@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:suryanshiranawat@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Suryanshi%20Ranawat-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suryanshi-ranawat-292b64357/)
 
