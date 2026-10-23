@@ -1,4 +1,4 @@
-#  Hi, I'm Suryanshi Ranawat 👋
+#  Hi, I'm Suryanshi👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF69B4&center=true&vCenter=true&lines=CS+Student+%40+VIT+Bhopal;Aspiring+AI+Engineer;Keen+On+Builiding+Real+Projects;Rapid+Technology+Adopter" />
 
