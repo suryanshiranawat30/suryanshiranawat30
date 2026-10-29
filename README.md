@@ -36,7 +36,7 @@
 - Added keyword-based search, category filtering, and interactive commenting.
 - Built a responsive interface with rich-text editing and toast notifications.
 
-### 📝 [SmartNotes — AI-Powered Smart Note-Taking Application](https://github.com/suryanshiranawat30/SmartNotes)
+### 📝 [SmartNotes — AI-Powered Smart Note-Taking Application](https://github.com/suryanshiranawat30/smart-notes)
 
 **Tech Stack:** PHP, Google Gemini API, Guzzle, Composer
 
