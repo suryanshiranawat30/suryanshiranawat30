@@ -6,19 +6,19 @@
 
 ## 🧠 About Me
 
-🎓 Pursuing a **B.Tech in Computer Science** at Vellore Institute of Technology, Bhopal (2023–2027).
+ Pursuing a **B.Tech in Computer Science** at Vellore Institute of Technology, Bhopal (2023–2027).
 
-🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and full-stack development.
+ Interested in Artificial Intelligence, Machine Learning, Deep Learning, and full-stack development.
 
-💻 Building applications that combine AI capabilities with practical software solutions.
+ Building applications that combine AI capabilities with practical software solutions.
 
-📚 Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, AI & ML, and Probability and Statistics.
+ Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, AI & ML, and Probability and Statistics.
 
 ---
 
 ## 🚀 Projects
 
-### 🍎 InDiet — AI-Powered Nutrition & Diet Planning Platform
+###  InDiet — AI-Powered Nutrition & Diet Planning Platform
 
 **Tech Stack:** Next.js, Flask, Python, CNN, Machine Learning, Thirdweb, NFTs
 
@@ -27,7 +27,7 @@
 - Implemented a regression-based weekly diet planning system.
 - Incorporated blockchain-based rewards, NFT trading, and food-score competitions.
 
-### ✍️ PixelStack — Full-Stack Blogging Platform
+###  PixelStack — Full-Stack Blogging Platform
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS, Bootstrap
 
@@ -36,7 +36,7 @@
 - Added keyword-based search, category filtering, and interactive commenting.
 - Built a responsive interface with rich-text editing and toast notifications.
 
-### 📝 SmartNotes — AI-Powered Smart Note-Taking Application
+###  SmartNotes — AI-Powered Smart Note-Taking Application
 
 **Tech Stack:** PHP, Google Gemini API, Guzzle, Composer
 
@@ -69,14 +69,14 @@
 
 ## 🏆 Achievements & Certifications
 
-- ⭐ **3-Star Rating on CodeChef**
-- 👩‍💻 **Mentee at Codess Cafe**
+-  **3-Star Rating on CodeChef**
+-  **Mentee at Codess Cafe**
 
 **Certifications:**
 - Google IT Support
 - IBM AI Applications
 - Machine Learning — NPTEL
-- Marketing Analytics
+- Marketing Analytics - NPTEL
 
 ---
 
