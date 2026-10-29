@@ -10,8 +10,6 @@
 
 🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and full-stack development.
 
-🔬 Research Intern at **IIT Ropar**, exploring deep neural networks, image enhancement, model optimization, and computer vision.
-
 💻 Building applications that combine AI capabilities with practical software solutions.
 
 📚 Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, AI & ML, and Probability and Statistics.
@@ -113,16 +111,13 @@
   <a href="mailto:suryanshiranawat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/suryanshi-ranawat-292b64357/">
+  <a href="https://www.linkedin.com/in/suryanshi-ranawat/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/suryanshiranawat30">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://leetcode.com/suryanshiranawat">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://www.codechef.com/users/yourhandle">
+  <a href="https://www.codechef.com/users/band_friend_30">
     <img src="https://img.shields.io/badge/CodeChef-Profile-green?style=for-the-badge&logo=codechef" />
   </a>
 </p>
