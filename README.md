@@ -18,7 +18,7 @@
 
 ## 🚀 Projects
 
-###  InDiet — AI-Powered Nutrition & Diet Planning Platform
+### 🍎 [InDiet — AI-Powered Nutrition & Diet Planning Platform](https://github.com/suryanshiranawat30/InDiet)
 
 **Tech Stack:** Next.js, Flask, Python, CNN, Machine Learning, Thirdweb, NFTs
 
@@ -27,7 +27,7 @@
 - Implemented a regression-based weekly diet planning system.
 - Incorporated blockchain-based rewards, NFT trading, and food-score competitions.
 
-###  PixelStack — Full-Stack Blogging Platform
+### ✍️ [PixelStack — Full-Stack Blogging Platform](https://github.com/suryanshiranawat30/PixelStack)
 
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Tailwind CSS, Bootstrap
 
@@ -36,14 +36,13 @@
 - Added keyword-based search, category filtering, and interactive commenting.
 - Built a responsive interface with rich-text editing and toast notifications.
 
-###  SmartNotes — AI-Powered Smart Note-Taking Application
+### 📝 [SmartNotes — AI-Powered Smart Note-Taking Application](https://github.com/suryanshiranawat30/SmartNotes)
 
 **Tech Stack:** PHP, Google Gemini API, Guzzle, Composer
 
 - Developed a smart note-taking application focused on improving information management and productivity.
 - Structured the application for AI-powered functionality and API integration.
 - Explored intelligent note processing to help users manage and access information efficiently.
-
 ---
 
 ## 🔬 Research Experience
